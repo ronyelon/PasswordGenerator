@@ -29,5 +29,5 @@
 <p>The following image shows the web application's appearance and functionality:</p>
 
 <p>
-    <img src="assets/PasswordGenerator-MockUp.PNG" />
+    <img src="https://github.com/ronyelon/PasswordGenerator/blob/main/Assets/PasswordGenerator-MockUp.png" />
 </p>    
