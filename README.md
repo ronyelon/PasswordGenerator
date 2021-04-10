@@ -32,16 +32,16 @@
     <img src="https://github.com/ronyelon/PasswordGenerator/blob/main/Assets/PasswordGenerator-MockUp.png" />
 </p>    
 <p>
-    <img src="https://github.com/ronyelon/PasswordGenerator/blob/main/Assets/Alert1.png" />
+    <img src="https://github.com/ronyelon/PasswordGenerator/blob/main/Assets/Alert1.PNG" />
 </p> 
 <p>
-    <img src="https://github.com/ronyelon/PasswordGenerator/blob/main/Assets/Alert2.png" />
+    <img src="https://github.com/ronyelon/PasswordGenerator/blob/main/Assets/Alert2.PNG" />
 </p> 
 <p>
-    <img src="https://github.com/ronyelon/PasswordGenerator/blob/main/Assets/Alert3.png" />
+    <img src="https://github.com/ronyelon/PasswordGenerator/blob/main/Assets/Alert3.PNG" />
 </p> 
 <p>
-    <img src="https://github.com/ronyelon/PasswordGenerator/blob/main/Assets/Alert4.png" />
+    <img src="https://github.com/ronyelon/PasswordGenerator/blob/main/Assets/Alert4.PNG" />
 </p> 
 
 
