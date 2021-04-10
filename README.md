@@ -13,7 +13,10 @@
     <img src="https://github.com/ronyelon/PasswordGenerator/blob/main/Assets/PasswordGenerator-MockUp.png" />
 </p>    
 
-<p> Once the Generate Password button is depressed, it will send the user a series of prompts. After the data is collected, a randomly generated password is created.
+<p> Once the Generate Password button is depressed, it will send the user a series of prompts.</p>
+<p> After the data is collected, a randomly generated password is created.</p>
+<p>
+</p>
     <img src="https://github.com/ronyelon/PasswordGenerator/blob/main/Assets/Alert1.PNG" />
 </p> 
 <p>
