@@ -16,15 +16,22 @@
 <p> Once the Generate Password button is depressed, it will send the user a series of prompts.</p>
 <p> After the data is collected, a randomly generated password is created.</p>
 <p>
+
 </p>
     <img src="https://github.com/ronyelon/PasswordGenerator/blob/main/Assets/Alert1.PNG" />
 </p> 
+
+
 <p>
     <img src="https://github.com/ronyelon/PasswordGenerator/blob/main/Assets/Alert2.PNG" />
 </p> 
+
+
 <p>
     <img src="https://github.com/ronyelon/PasswordGenerator/blob/main/Assets/Alert3.PNG" />
 </p> 
+
+
 <p>
     <img src="https://github.com/ronyelon/PasswordGenerator/blob/main/Assets/Alert4.PNG" />
 </p> 
