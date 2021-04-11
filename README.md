@@ -40,11 +40,11 @@
 <h1> Link to Deployed File</h1>
 <h3>https://ronyelon.github.io/PasswordGenerator/</h3>
 
-<p></p>
+<p>Contact me at RonyBraswell@hotmail.com</p>
 
 
 
-Copyright (c) 2012-2021 Scott Chacon and others
+Copyright (c) 2012-2021 Rony Braswell
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
